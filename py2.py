@@ -22,4 +22,4 @@ else :
     amt = units * 8
     tax = 300
 total = amt + tax
-print
+print("This is your electricity bill:{}".format(total))
