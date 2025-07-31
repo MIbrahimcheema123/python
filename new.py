@@ -26,7 +26,7 @@ tree3 = int(input("enter the length of tree3:"))
 tree4 = int(input("enter the length of tree4:"))
 tree5 = int(input("enter the length of tree5:"))
 sum = tree1+tree2+tree3+tree4+tree5
-# now we will do the multiplication
+# now we will do the multiplic-ation
 average = sum/5
 print("the age of these 4 trees is:",average)
 # this program will tell you how many different types of notes you have
