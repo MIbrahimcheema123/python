@@ -6,5 +6,5 @@ pen = turtle.Turtle()
 pen.color("white")
 for i in range(0,5):
     pen.left(144)
-    pen.forward(100)
+    pen.forward(200)
 turtle.done()
