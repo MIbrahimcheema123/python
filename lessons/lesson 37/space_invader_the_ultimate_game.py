@@ -107,4 +107,4 @@ while running:
         bulletY -= bulletY_change
     player(playerX, playerY)
     show_score(textX, textY)
-    pygame.display.update()
+    pygame.display.update() 
